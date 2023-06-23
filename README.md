@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arielhernandezcl&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 <!--
 **arielhernandezcl/arielhernandezcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
