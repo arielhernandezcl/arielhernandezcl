@@ -3,6 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielhernandezcl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
+  <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
