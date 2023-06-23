@@ -1,6 +1,6 @@
 ### Hola Amig@s 👋
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielhernandezcl&theme=dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arielhernandezcl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielhernandezcl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
