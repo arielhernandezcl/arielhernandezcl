@@ -20,10 +20,10 @@
 
 <h3 align="left">Hablemos?</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://www.svgrepo.com/show/489937/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/arielhdezcl" target="blank"><img align="center" src="https://www.svgrepo.com/show/489937/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arielhernandezcl/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arielhernandezcl/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvtm9e0UWIrU5TEyNhBn4UQ" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <!--
