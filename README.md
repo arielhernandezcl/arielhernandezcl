@@ -1,7 +1,7 @@
 ### Hola Amig@s 👋
-<div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielhernandezcl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielhernandezcl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielhernandezcl&theme=dark)](https://git.io/streak-stats)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
