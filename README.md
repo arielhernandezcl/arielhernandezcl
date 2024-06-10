@@ -7,6 +7,7 @@
 - 💬 Pregúntame sobre mi experiencia en tecnología, innovación y desarrollo de software.
 - 📫 Cómo contactarme: Puedes contactarme a través de mi correo electrónico hola@arielhernandez.net o en LinkedIn.
 - ⚡ Dato curioso: Soy autodidacta y siempre estoy buscando nuevos desafíos para expandir mis conocimientos y habilidades.
+  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielhernandezcl&theme=dark)](https://git.io/streak-stats)
 
