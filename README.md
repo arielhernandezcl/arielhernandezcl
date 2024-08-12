@@ -1,7 +1,6 @@
 ### Hola Amig@s 👋
 
 - 🔭 Actualmente estoy trabajando en desarrollar soluciones de software innovadoras en diversos sectores.
-- 🌱 Actualmente estoy aprendiendo sobre las últimas tecnologías en programación y desarrollo de hardware.
 - 👯 Estoy buscando colaborar en proyectos que requieran soluciones tecnológicas eficientes y disruptivas.
 - 🤔 Estoy buscando ayuda con proyectos desafiantes que involucren innovación tecnológica.
 - 💬 Pregúntame sobre mi experiencia en tecnología, innovación y desarrollo de software.
