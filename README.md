@@ -1,6 +1,11 @@
 ### Hola 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielhernandezcl&theme=dark)](https://git.io/streak-stats)
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=arielhernandezcl&theme=dark" alt="GitHub Streak"/>
+  </a>
+</div>
+
 
 <!--
 # 💻 Tech Stack:
