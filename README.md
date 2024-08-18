@@ -1,13 +1,5 @@
 <!--
-### Hola Amig@s 👋
-
-- 🔭 Actualmente estoy trabajando en desarrollar soluciones de software innovadoras en diversos sectores.
-- 👯 Estoy buscando colaborar en proyectos que requieran soluciones tecnológicas eficientes y disruptivas.
-- 🤔 Estoy buscando ayuda con proyectos desafiantes que involucren innovación tecnológica.
-- 💬 Pregúntame sobre mi experiencia en tecnología, innovación y desarrollo de software.
-- 📫 Cómo contactarme: Puedes contactarme a través de mi correo electrónico hola@arielhernandez.net o en LinkedIn.
-- ⚡ Dato curioso: Soy autodidacta y siempre estoy buscando nuevos desafíos para expandir mis conocimientos y habilidades.
---> 
+### Hola 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielhernandezcl&theme=dark)](https://git.io/streak-stats)
 
