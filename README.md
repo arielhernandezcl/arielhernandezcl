@@ -1,6 +1,10 @@
 ### Hola 👋
 
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielhernandezcl&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 <h3 align="left">Hablemos?</h3>
 <p align="left">
