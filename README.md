@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=arielhernandezcl&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=200)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=arielhernandezcl&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900&card_height=250)](https://git.io/streak-stats)
   
   [![Visitas al perfil](https://visitcount.itsvg.in/api?id=arielhernandezcl&icon=0&color=0)](https://visitcount.itsvg.in)
 
