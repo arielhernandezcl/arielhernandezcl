@@ -20,6 +20,6 @@
 
 ## SimpleX Chat 💬
 
-Puede conectarse conmigo y hacer cualquier pregunta a través de la aplicación SimpleX Chat escaneando el este QR
+Puede conectarse conmigo y hacer cualquier pregunta a través de la aplicación SimpleX Chat escaneando este QR
 
 <img alt="Connect to me via SimpleX Chat" src="./simplex.jpeg" width="240" />
