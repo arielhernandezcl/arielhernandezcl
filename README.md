@@ -18,8 +18,8 @@
   <a href="https://t.me/arielhernandez" target="_blank"><img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 </p>
 
-## SimpleX Chat 💬
+## Telegram 💬
 
-Puede conectarse conmigo y hacer cualquier pregunta a través de la aplicación SimpleX Chat escaneando este QR
+Te puedes comunicar conmigo para consultas o preguntas de maneras mas rapida por Telegram
 
-<img alt="Connect to me via SimpleX Chat" src="./simplex.jpeg" width="240" />
+<img alt="Connect to me via SimpleX Chat" src="./telegram-qr.png" width="240" />
