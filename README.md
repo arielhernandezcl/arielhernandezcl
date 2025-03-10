@@ -21,5 +21,4 @@
 ## Telegram 💬
 
 Te puedes comunicar conmigo para consultas o preguntas de maneras mas rapida por Telegram
-
 <img alt="Connect to me via SimpleX Chat" src="./telegram-qr.png" width="240" />
