@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/arielhernandezcl">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Ingeniero+de+Software;Especialista+en+Backend;Constructor+de+Sistemas+Distribuidos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Especialista+en+Backend" alt="Typing SVG" />
   </a>
 </p>
 
