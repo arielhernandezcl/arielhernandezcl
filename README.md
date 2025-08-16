@@ -4,12 +4,12 @@
   <a href="https://github.com/arielhernandezcl">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Ingeniero+de+Software;Especialista+en+Backend;Constructor+de+Sistemas+Distribuidos" alt="Typing SVG" />
   </a>
-p>
+</p>
 
-**Desarrollador de Software | Chile 🇨🇱**
+**Ingeniero de Software | Chile 🇨🇱**
 * **Backend:** Diseño de APIs, microservicios y sistemas distribuidos.
 * **Foco:** Escalabilidad, rendimiento y mantenibilidad.
-* **Next-gen:** Machine Learning e inteligencia artificial
+* **Next-gen:** Inteligencia Artificial (IA) y Machine Learning.
 
 ---
 
@@ -17,6 +17,8 @@ p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arielhernandezcl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielhernandezcl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes" />
+  <img src="https://streak-stats.demolab.com?user=arielhernandezcl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
