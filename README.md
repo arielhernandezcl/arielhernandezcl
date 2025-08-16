@@ -16,8 +16,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielhernandezcl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielhernandezcl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes" />
   <img src="https://streak-stats.demolab.com?user=arielhernandezcl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
