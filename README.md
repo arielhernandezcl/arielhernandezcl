@@ -13,8 +13,6 @@ Soy un desarrollador de software con base en Chile 🇨🇱. Me especializo en c
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielhernandezcl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielhernandezcl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes" />
   <img src="https://streak-stats.demolab.com?user=arielhernandezcl&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
