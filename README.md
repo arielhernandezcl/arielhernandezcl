@@ -6,18 +6,17 @@
   </a>
 p>
 
-**Ingeniero de Software | Chile 🇨🇱**
+**Desarrollador de Software | Chile 🇨🇱**
 * **Backend:** Diseño de APIs, microservicios y sistemas distribuidos.
 * **Foco:** Escalabilidad, rendimiento y mantenibilidad.
-* **Next-gen:** Machine Learning y desarrollo móvil nativo.
+* **Next-gen:** Machine Learning e inteligencia artificial
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arielhernandezcl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://streak-stats.demolab.com?user=arielhernandezcl&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
