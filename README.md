@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/arielhernandezcl">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Especialista+en+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Software+Developer;Especialista+en+Backend" alt="Typing SVG" />
   </a>
 </p>
 
-**Ingeniero de Software | Chile 🇨🇱**
+**Software Developer | Chile 🇨🇱**
 * **Backend:** Diseño de APIs, microservicios y sistemas distribuidos.
 * **Foco:** Escalabilidad, rendimiento y mantenibilidad.
 * **Next-gen:** Inteligencia Artificial (IA) y Machine Learning.
@@ -21,7 +21,7 @@
 
 ---
 
-### 💻 Tecnologías y Herramientas
+### 💻 Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +31,7 @@
 
 ---
 
-### 🔗 Conéctate Conmigo
+### 🔗 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arielhernandezcl/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
