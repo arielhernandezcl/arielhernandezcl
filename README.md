@@ -1,9 +1,20 @@
 ### Hola, soy Ariel 👋
 
-**Software Developer**
-* **Backend:** Diseño de APIs, microservicios y sistemas distribuidos.
-* **Foco:** Escalabilidad, rendimiento y mantenibilidad.
-* **Next-gen:** Inteligencia Artificial (IA) y Machine Learning.
+**Backend:**  
+✓ APIs RESTful y GraphQL  
+✓ Arquitectura de microservicios  
+✓ Sistemas distribuidos y escalables  
+✓ Optimización de rendimiento  
+
+**Frontend:**  
+✓ Interfaces modernas y responsivas  
+✓ Frameworks JavaScript/TypeScript  
+✓ Experiencia de usuario (UX)  
+
+**Innovación:**  
+✓ Integración de soluciones de IA/ML  
+✓ Tecnologías emergentes  
+✓ Automatización y DevOps
 
 ---
 
