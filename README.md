@@ -1,6 +1,6 @@
 ### Hola, soy Ariel 👋
 
-**Software Developer | Chile 🇨🇱**
+**Software Developer**
 * **Backend:** Diseño de APIs, microservicios y sistemas distribuidos.
 * **Foco:** Escalabilidad, rendimiento y mantenibilidad.
 * **Next-gen:** Inteligencia Artificial (IA) y Machine Learning.
